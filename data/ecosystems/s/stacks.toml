@@ -14,6 +14,8 @@ sub_ecosystems = [
   "synonymdev",
   "syvita-guild",
   "Stacks Degens",
+  "Stacks Australia"
+  "TheSchoolofBitcoinCurriculum"
 ]
 
 github_organizations = [
@@ -45,6 +47,7 @@ github_organizations = [
   "https://github.com/tintash",
   "https://github.com/Trust-Machines",
   "https://github.com/stacks-force",
+  "https://github.com/TheSchoolofBitcoinCurriculum"
 ]
 
 # Repositories
@@ -3925,3 +3928,6 @@ url = "https://gitlab.com/steve-dejo/animo"
 
 [[repo]]
 url = "https://gitlab.com/vaultilo/vaultilo-app"
+
+[[repo]]
+url = "https://github.com/TheSchoolofBitcoinCurriculum/TheSchoolofBitcoinCurriculum"
